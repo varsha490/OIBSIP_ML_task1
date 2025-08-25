@@ -22,5 +22,5 @@ Classify iris flowers into **Setosa, Versicolor, and Virginica** using machine l
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/OIBSIP_ML_task1.git
+   git clone https://github.com/varsha490/OIBSIP_ML_task1.git
 
